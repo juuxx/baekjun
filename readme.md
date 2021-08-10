@@ -9,7 +9,7 @@
 |1 |입출력과 사칙연산| ✅ |
 |2 |if문| ✅ |
 |3 |[for문](https://github.com/juuxx/baekjun/tree/master/for%EB%AC%B8)| ✅ |
-|4 |while문| ⬜ |
+|4 |[while문](https://github.com/juuxx/baekjun/tree/master/while%EB%AC%B8)| ✅ |
 |5 |1차원 배열| ⬜ |
 |6 |함수| ⬜ |
 |7 |문자열| ⬜ |
