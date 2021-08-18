@@ -10,7 +10,7 @@
 |2 |if문| ✅ |
 |3 |[for문](https://github.com/juuxx/baekjun/tree/master/for%EB%AC%B8)| ✅ |
 |4 |[while문](https://github.com/juuxx/baekjun/tree/master/while%EB%AC%B8)| ✅ |
-|5 |1차원 배열| ⬜ |
+|5 |[1차원 배열](https://github.com/juuxx/baekjun/commit/325d26020c177eb9c48b18eeaeda78f3314d02b6)| ✅ |
 |6 |함수| ⬜ |
 |7 |문자열| ⬜ |
 |8 |기본 수학| ⬜ |
