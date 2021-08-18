@@ -2,7 +2,7 @@
 
 ## 단계별로 풀어보기 진행중
 
-* 사용언어 : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/language-python-blue"/></a>
 
 |단계|제목|완료|
 |------|---|:---:|
